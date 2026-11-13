@@ -197,4 +197,4 @@ This repository serves as the official landing page for AeroPeek. The software i
 **Get the most recent version of AeroPeek today!**
 
 ---
-**Last updated:** 2026-11-13 07:28:10 UTC
+**Last updated:** 2026-11-13 15:46:45 UTC
